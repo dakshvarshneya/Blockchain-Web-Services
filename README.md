@@ -1,6 +1,8 @@
+* I have used ExpressJS for this project
+
 ### Installing dependencies
 
-* From within project's root folder run `npm install`
+* From within project's root folder run `npm install` and it will install all the dependencies available in the package.json file.
 
 ### Running the app
 
